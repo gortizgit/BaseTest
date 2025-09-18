@@ -29,4 +29,4 @@ Reports:
 
 ## Structure
 - `INTERVIEW_1MIN_SCRIPTS.md` – 1‑minute interview scripts (Selenium, SQL, API) ready to present.
-- Each stack is self‑contained; extend by adding new Page Objects and tests.
+- Each stack is self‑contained; extend by adding new Page Objects and tests...
